@@ -1,5 +1,6 @@
 # databaseKey
 Офлайн
+
 pkg install python
 
 pkg install git
