@@ -1,2 +1,4 @@
 # databaseKey
-Офлайн 
+Офлайн
+pkg install git
+git clone
